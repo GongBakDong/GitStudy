@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 5c5d9c76c914c384fa86396f292a8949
+  productGUID: a55a7c8ce6b34b44ba354aaba0c87ea6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GitUnity
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,10 +721,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3bfde3b1-fca2-4f42-986e-c00d23f19fa1
+  cloudProjectId: f16d853f-80da-4f74-8e50-925df6d8868d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GitUnity
+  projectName: My project
   organizationId: jdh980722
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
